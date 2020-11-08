@@ -18,7 +18,7 @@ This game is a fun variation of tic tac toe where users can choose their preferr
     |   |   <br />
  ───┼───┼───<br />
     |   |   <br />
-<br />
+
           |         |      <br />   
           |         |         <br />
           |         |         <br />
